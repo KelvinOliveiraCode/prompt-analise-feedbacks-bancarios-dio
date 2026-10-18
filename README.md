@@ -28,13 +28,13 @@ Estrutura limpa e modular com separação de responsabilidades.
 
 ---
 
-## Capabilities
+## Capacidades
 
-| Capability | Description |
+| Capacidade | Descrição |
 |------------|-------------|
-| Reference Format | Markdown / Excel / Text ,  version-controlled, diffable |
-| Practical Focus | Actionable content for immediate application |
-| No Dependencies | Open with any editor, no tooling required |
+| Formato de Referência | Markdown / Excel / Texto ,  versionável, diffável |
+| Foco Prático | Conteúdo acionável para aplicação imediata |
+| Sem Dependências | Abre em qualquer editor, sem tooling necessário |
 
 
 ---
@@ -43,33 +43,33 @@ Estrutura limpa e modular com separação de responsabilidades.
 
 ---
 
-## FAQ
+## Perguntas Frequentes
 
 <details>
-<summary><strong>What is this project?</strong></summary>
+<summary><strong>O que é este projeto?</strong></summary>
 
-A documentation study/project demonstrating Documentation/Guide, Reference material.
+Um estudo/projeto em documentação demonstrando Documentation/Guide, Reference material.
 
 </details>
 
 <details>
-<summary><strong>How do I run it?</strong></summary>
+<summary><strong>Como executar?</strong></summary>
 
-See [Quick Start](#quick-start) for copy-paste commands.
-
-</details>
-
-<details>
-<summary><strong>Are there tests?</strong></summary>
-
-No automated tests in this repository.
+Veja [Início Rápido](#início-rápido) para comandos copiáveis.
 
 </details>
 
 <details>
-<summary><strong>Can I use this in production?</strong></summary>
+<summary><strong>Há testes?</strong></summary>
 
-This is a **study/portfolio project**. Review and harden (auth, persistence, monitoring, etc.) before production use.
+Nenhum teste automatizado neste repositório.
+
+</details>
+
+<details>
+<summary><strong>Posso usar em produção?</strong></summary>
+
+Este é um **projeto de estudo/portfólio**. Revise e endureça (auth, persistência, monitoramento, etc.) antes de usar em produção.
 
 </details>
 
@@ -77,15 +77,15 @@ This is a **study/portfolio project**. Review and harden (auth, persistence, mon
 
 ---
 
-## Documentation
+## Documentação
 
-- **Source Code** ,  Browse the `src/` directory for implementation details
-- **API Reference** ,  N/A
-- **Architecture Diagram** ,  See [architecture.mermaid](docs/architecture.mermaid) (if present)
-- **Changelog** ,  [CHANGELOG.md](CHANGELOG.md) (if present)
-- **Contributing** ,  [CONTRIBUTING.md](CONTRIBUTING.md) (if present)
+- **Código-Fonte** ,  Navegue pelo diretório `src/` para detalhes de implementação
+- **Referência da API** ,  N/A
+- **Diagrama de Arquitetura** ,  Veja [architecture.mermaid](docs/architecture.mermaid) (se presente)
+- **Changelog** ,  [CHANGELOG.md](CHANGELOG.md) (se presente)
+- **Contribuindo** ,  [CONTRIBUTING.md](CONTRIBUTING.md) (se presente)
 
-## License
+## Licença
 
 [MIT](LICENSE) ,  Kelvin Oliveira
 
@@ -93,8 +93,8 @@ This is a **study/portfolio project**. Review and harden (auth, persistence, mon
 
 <div align="center">
 
-**Built with** · Documentation
+**Construído com** · Documentação
 
-**Author** · [Kelvin Oliveira](https://github.com/KelvinOliveiraCode) · [Portfolio](https://kelvinoliveiracode.github.io/portfolio/)
+**Autor** · [Kelvin Oliveira](https://github.com/KelvinOliveiraCode) · [Portfolio](https://kelvinoliveiracode.github.io/portfolio/)
 
 </div>

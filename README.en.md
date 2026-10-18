@@ -30,11 +30,11 @@ Estrutura limpa e modular com separação de responsabilidades.
 
 ## Capabilities
 
-| Capability | Description |
+| Capacidade | Descrição |
 |------------|-------------|
-| Reference Format | Markdown / Excel / Text ,  version-controlled, diffable |
-| Practical Focus | Actionable content for immediate application |
-| No Dependencies | Open with any editor, no tooling required |
+| Formato de Referência | Markdown / Excel / Texto ,  versionável, diffável |
+| Foco Prático | Conteúdo acionável para aplicação imediata |
+| Sem Dependências | Abre em qualquer editor, sem tooling necessário |
 
 
 ---
