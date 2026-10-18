@@ -24,7 +24,7 @@ Consult the repository files for usage instructions.
 
 ## How it works
 
-Clean, modular structure with separation of concerns.
+Estrutura limpa e modular com separação de responsabilidades.
 
 ---
 
