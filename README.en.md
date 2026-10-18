@@ -1,51 +1,47 @@
-
 # prompt-analise-feedbacks-bancarios-dio
 
-![status: done](https://img.shields.io/badge/status-done-green)   ![license: MIT](https://img.shields.io/badge/license-MIT-blue)
+[![Guide/Documentation]   ![status: done](https://img.shields.io/badge/status-done-green)   ![license: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 ## Summary
 
 Prompt para análise de feedbacks bancários: CX, insights e prioridades | Prompt for banking CX feedback analysis
+## Problem / Why it exists
 
-## Problem / why it exists
+The project addresses a practical scope and automates a task that, done manually, is repetitive and error-prone. The focus is on turning data or processes into reliable output, with readable, testable, and extensible code.
+## Architecture
 
-The project offers a guide, template or study plan for a specific topic, with focus on practicality and direct application.
+Code files (2):
+- `README.en.md`
+- `README.md`
+## Design Patterns and Techniques Identified
 
-## What it contains
+- Documentation/Guide
+- Reference material
+## What it does
 
 Prompt para análise de feedbacks bancários: CX, insights e prioridades | Prompt for banking CX feedback analysis
+## How to run
 
-## How to use
+Consult the repository files for usage instructions.
+## Project Structure
 
-Consult the files in the repository. Open each document and apply the guidance in the desired context.
+- `README.en.md`
+- `README.md`
+## Trade-offs and Technical Decisions
 
-## Project structure
-
-- LICENSE, README.en.md, README.md
-
-
-## Technologies
-
-Documentation / guide (no application code).
-
-## Trade-offs and decisions
-
-- Open format (markdown, text, spreadsheet) to facilitate adaptation.
-- Focus on practical and applicable content.
-
-## Known limitations
+- Open format (markdown, spreadsheet, text) to facilitate adaptation and versioning.
+- Focus on practical, directly applicable content.
+## Known Limitations
 
 - Reference guide; does not replace an automated tool.
-
+- May become outdated as tools/versions evolve.
 ## Tests
 
-Not applicable (reference content).
-
+No automated tests detected (documentation/guide project).
 ## License
 
 Distributed under the MIT License. See the `LICENSE` file in this repository.
-
 ## Author
 
-Kelvin Oliveira, https://github.com/KelvinOliveiraCode
+Kelvin Oliveira ,  https://github.com/KelvinOliveiraCode
 Portfolio: https://kelvinoliveiracode.github.io/portfolio/

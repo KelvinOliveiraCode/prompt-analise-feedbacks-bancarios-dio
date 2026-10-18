@@ -1,50 +1,47 @@
 # prompt-analise-feedbacks-bancarios-dio
 
-![status: concluido](https://img.shields.io/badge/status-concluido-green)   ![licenca: MIT](https://img.shields.io/badge/licenca-MIT-blue)
+[![Guide/Documentation]   ![status: concluido](https://img.shields.io/badge/status-concluido-green)   ![licenca: MIT](https://img.shields.io/badge/licenca-MIT-blue)
 
 ## Resumo
 
 Prompt para análise de feedbacks bancários: CX, insights e prioridades | Prompt for banking CX feedback analysis
+## Problema / Por que existe
 
-## Problema / por que existe
+O projeto aborda um recorte prático e automatiza uma tarefa que, feita manualmente, é repetitiva e propensa a erro. O foco está em transformar dados ou processos em saída confiável, com código legível, testável e extensível.
+## Arquitetura
 
-O projeto oferece um guia, modelo ou plano de estudo para um tema especifico, com foco em praticidade e aplicacao direta.
+Arquivos de código (2):
+- `README.en.md`
+- `README.md`
+## Padrões de Projeto e Técnicas Identificadas
 
-## O que contem
+- Documentation/Guide
+- Reference material
+## O que faz
 
 Prompt para análise de feedbacks bancários: CX, insights e prioridades | Prompt for banking CX feedback analysis
+## Como rodar
 
-## Como usar
+Consulte os arquivos do repositório para instruções de uso.
+## Estrutura do Projeto
 
-Consulte os arquivos do repositorio. Abra cada documento e aplique as orientacoes no contexto desejado.
+- `README.en.md`
+- `README.md`
+## Trade-offs e Decisões Técnicas
 
-## Estrutura do projeto
+- Formato aberto (markdown, planilha, texto) para facilitar adaptação e versionamento.
+- Foco em conteúdo prático e aplicável diretamente.
+## Limitações Conhecidas
 
-- LICENSE, README.en.md, README.md
-
-
-## Tecnologias
-
-Documentacao / guia (sem codigo de aplicacao).
-
-## Trade-offs e decisões
-
-- Formato aberto (markdown, texto, planilha) para facilitar adaptacao.
-- Foco em conteudo pratico e aplicavel.
-
-## Limitações conhecidas
-
-- Guia de referencia; nao substitui ferramenta automatizada.
-
+- Guia de referência; não substitui ferramenta automatizada.
+- Pode desatualizar conforme ferramentas/versões evoluem.
 ## Testes
 
-Nao se aplica (conteudo de referencia).
-
+Nenhum teste automatizado detectado (projeto de documentação/guia).
 ## Licença
 
-Distribuído sob a licenca MIT. Consulte o arquivo `LICENSE` do repositorio.
-
+Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` do repositório.
 ## Autor
 
-Kelvin Oliveira, https://github.com/KelvinOliveiraCode
+Kelvin Oliveira ,  https://github.com/KelvinOliveiraCode
 Portfolio: https://kelvinoliveiracode.github.io/portfolio/
