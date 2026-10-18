@@ -14,7 +14,7 @@
 
 ## O que é
 
-Prompt para análise de feedbacks bancários: CX, insights e prioridades | Prompt for banking CX feedback analysis
+Prompt para análise de feedbacks bancários: CX, insights e prioridades
 
 ---
 
